@@ -1,8 +1,9 @@
  Hi there 👋
 ---------------
+ 
+<img width="256px" src="https://raw.githubusercontent.com/DO1JLR/do1jlr/main/assets/animated_ansible.svg?sanitize=true" alt="Ansible" style="float: right; ">
+I like ansible. That's why I'm sometimes writing my own ansible roles or helping to improve existing roles. You can find some of my work around ansible at <a href="https://github.com/roles-ansible/">github.com/roles-ansible</a>.
 
-![ANSIBLE](https://raw.githubusercontent.com/DO1JLR/do1jlr/main/assets/animated_ansible.svg?sanitize=true "Ansible")
-I like ansible!
 
 <!--
 **DO1JLR/do1jlr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
