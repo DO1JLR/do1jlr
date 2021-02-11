@@ -1,4 +1,8 @@
-### Hi there 👋
+ Hi there 👋
+---------------
+
+![ANSIBLE](https://raw.githubusercontent.com/DO1JLR/do1jlr/main/assets/animated_ansible.svg?sanitize=true "Ansible")
+I like ansible!
 
 <!--
 **DO1JLR/do1jlr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
