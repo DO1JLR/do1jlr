@@ -1,8 +1,11 @@
- Hi there 👋
+ 🚀 Hi there 👋
 ---------------
- 
-<img width="256px" src="https://raw.githubusercontent.com/DO1JLR/do1jlr/main/assets/animated_ansible.svg?sanitize=true" alt="Ansible" style="float: right; ">
-I like ansible. That's why I'm sometimes writing my own ansible roles or helping to improve existing roles. You can find some of my work around ansible at <a href="https://github.com/roles-ansible/">github.com/roles-ansible</a>.
+<p float="left">
+  <img height="173em" src="https://raw.githubusercontent.com/DO1JLR/do1jlr/main/assets/animated_ansible.svg?sanitize=true" alt="I like Ansible"/>
+  <img height="173em" src="https://github-readme-stats.vercel.app/api?username=do1jlr&count_private=true&show_icons=true&theme=dark"/>
+  <img height="173em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=do1jlr&langs_count=10&layout=compact&theme=dark" />
+</p>
+My name is <a href="https://chaos.social/@l3d">L3D</a> or <code>DO1JLR</code>. I am a data traveler from lake constance. In my freetime at github I mostly creating some ansible at <a href="https://github.com/roles-ansible/">github.com/roles-ansible</a> or help changing the world to a sweeter place contributing to the <a href="https://c3woc.de/">C3WOC</a>.
 
 
 <!--
@@ -19,9 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Stats
-<div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=do1jlr&count_private=true&show_icons=true&theme=dark" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=do1jlr&langs_count=10&layout=compact&theme=dark" />
-</div>
