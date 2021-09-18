@@ -1,9 +1,9 @@
  🚀 Hi there 👋
 ---------------
 <p float="left">
-  <img height="73em" src="https://raw.githubusercontent.com/DO1JLR/do1jlr/main/assets/animated_ansible.svg?sanitize=true" alt="I like Ansible"/>
-  <img height="73em" src="https://github-readme-stats.vercel.app/api?username=do1jlr&count_private=true&show_icons=true&theme=dark"/>
-  <img height="73em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=do1jlr&langs_count=10&layout=compact&theme=dark" />
+  <img height="123em" src="https://raw.githubusercontent.com/DO1JLR/do1jlr/main/assets/animated_ansible.svg?sanitize=true" alt="I like Ansible"/>
+  <img height="123em" src="https://github-readme-stats.vercel.app/api?username=do1jlr&count_private=true&show_icons=true&theme=dark"/>
+  <img height="123em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=do1jlr&langs_count=10&layout=compact&theme=dark" />
 </p>
 My name is <a href="https://chaos.social/@l3d">L3D</a> or <code>DO1JLR</code>. I am a data traveler from lake constance. In my freetime at github I mostly creating some ansible at <a href="https://github.com/roles-ansible/">github.com/roles-ansible</a> or help changing the world to a sweeter place contributing to the <a href="https://c3woc.de/">C3WOC</a>.
 
