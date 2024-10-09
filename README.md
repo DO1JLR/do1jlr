@@ -1,6 +1,6 @@
  🚀 Hi there 👋
 ---------------
-<p float="left">
+<p float="center">
   <img height="123em" src="https://raw.githubusercontent.com/DO1JLR/do1jlr/main/assets/animated_ansible.svg?sanitize=true" alt="I like Ansible"/>
   <img height="123em" src="https://github-readme-stats.vercel.app/api?username=do1jlr&count_private=true&show_icons=true&theme=dark"/>
   <img height="123em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=do1jlr&langs_count=10&layout=compact&theme=dark" />
